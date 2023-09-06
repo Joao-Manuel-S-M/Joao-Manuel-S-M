@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Olá!! Me chamo João Manuel <br><br>- 🎂 17 anos <br> - 👨‍💻 Cursando 3º ano do ensino médio técnico em desenvolvimento de sistemas <br> - 💻 Estudo front-end</p>
+<p align="left">Olá!! Me chamo João Manuel <br><br>- 🎂 18 anos <br> - 👨‍💻 Cursando 3º ano do ensino médio técnico em desenvolvimento de sistemas <br> - 💻 Estudo front-end</p>
 
 ###
 
