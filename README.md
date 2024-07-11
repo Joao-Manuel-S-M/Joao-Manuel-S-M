@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Olá!! Me chamo João Manuel <br><br>- 🎂 18 anos <br> - 👨‍💻 Técnico em desenvolvimento de sistemas <br> - 💻 Estudo front-end</p>
+<p align="left">Olá!! Me chamo João Manuel <br><br>- 🎂 18 anos <br> - 👨‍💻 Cursando Engenharia de Software - 👨‍💻 Técnico em Desenvolvimento de Sistemas <br> - 💻 Estudo front-end</p>
 
 ###
 
